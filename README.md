@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm Burak.<br>
+-🌱 I'm currently learning Python and JAVA and whatever interest me 
+
+## Languages and Tools :
+<p>
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="30px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="30px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30px">
+ <img src="https://www.oracle.com/technetwork/developer-tools/sql-developer/sqldev-101614-2340766.jpg" width="30px">
+ 
+</p>
+
+ 
+
+
+
+<a href="https://github.com/phyex0" target="_blank" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.hackerrank.com/19_Kzarka?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+</a>
+<a  href ="https://www.codewars.com/users/hburak_06" target="_blank"><img src="https://www.codewars.com/users/hburak_06/badges/micro"></a>
+<a href ="https://leetcode.com/hburak_06/" target="_blank"><img src = "https://img.shields.io/badge/hburak_0-LeetCode-orange?style=for-the-badge&logo=leetcode"></a>  
+
+
+- 👯 I’m looking for internship
+
+- 📫 How to reach me: 
+- <a href="https://www.linkedin.com/in/halit-burak-y-9b5bb8195/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+
+
+
