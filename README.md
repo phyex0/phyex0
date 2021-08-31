@@ -46,7 +46,7 @@ I'm Burak.<br>
 - 👯 I’m looking for internship
 
 - 📫 How to reach me: 
-- <a href="https://www.linkedin.com/in/halit-burak-y-9b5bb8195/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+- <a href="https://www.linkedin.com/in/burakyesildal/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 
 
