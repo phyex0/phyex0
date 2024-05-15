@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 I'm Burak.<br>
--🌱 Developing highly adaptable and scalable microservice applications.
--🌱 Powered applications by cloud infrastructures.
--🌱 Powered applications by Kafka Redis, Kubernetes, Debezium, Spring Cloud, and more... 
+-🌱 Developing highly adaptable and scalable microservice applications. <br>
+-🌱 Powered applications by cloud infrastructures. <br>
+-🌱 Powered applications by Kafka Redis, Kubernetes, Debezium, Spring Cloud, and more...  <br>
 
 ## Languages and Tools :
 <p>
