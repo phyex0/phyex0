@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 I'm Burak.<br>
--🌱 I'm currently learning Python and JAVA and whatever interest me 
+-🌱 Developing highly adaptable and scalable microservice applications.
+-🌱 Powered applications by cloud infrastructures.
+-🌱 Powered applications by Kafka Redis, Kubernetes, Debezium, Spring Cloud, and more... 
 
 ## Languages and Tools :
 <p>
@@ -43,7 +45,7 @@ I'm Burak.<br>
 <a href ="https://leetcode.com/hburak_06/" target="_blank"><img src = "https://img.shields.io/badge/hburak_0-LeetCode-orange?style=for-the-badge&logo=leetcode"></a>  
 
 
-- 👯 I’m looking for internship
+- 👯 I work as a full-stack web developer.
 
 - 📫 How to reach me: 
 - <a href="https://www.linkedin.com/in/burakyesildal/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
